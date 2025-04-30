@@ -1,0 +1,192 @@
+,COMMON NAME,species_family
+0,Snow Goose,"Geese, Ducks"
+1,Canada Goose,"Geese, Ducks"
+2,Cackling Goose,"Geese, Ducks"
+3,Wood Duck,"Geese, Ducks"
+4,Northern Shoveler,"Geese, Ducks"
+5,Gadwall,"Geese, Ducks"
+6,American Wigeon,"Geese, Ducks"
+7,Mallard,"Geese, Ducks"
+8,American Black Duck,"Geese, Ducks"
+9,Canvasback,"Geese, Ducks"
+10,Redhead,"Geese, Ducks"
+11,Ring-necked Duck,"Geese, Ducks"
+12,Greater Scaup,"Geese, Ducks"
+13,Lesser Scaup,"Geese, Ducks"
+14,Long-tailed Duck,"Geese, Ducks"
+15,Bufflehead,"Geese, Ducks"
+16,Common Goldeneye,"Geese, Ducks"
+17,Hooded Merganser,"Geese, Ducks"
+18,Common Merganser,"Geese, Ducks"
+19,Red-breasted Merganser,"Geese, Ducks"
+20,Ruddy Duck,"Geese, Ducks"
+21,Pied-billed Grebe,Grebes
+22,Horned Grebe,Grebes
+23,Red-necked Grebe,Grebes
+24,Rock Pigeon,"Doves, Cuckoos"
+25,Mourning Dove,"Doves, Cuckoos"
+26,Yellow-billed Cuckoo,"Doves, Cuckoos"
+27,Black-billed Cuckoo,"Doves, Cuckoos"
+28,Common Nighthawk,"Nightjars, Swifts, Hummingbirds"
+29,Eastern Whip-poor-will,"Nightjars, Swifts, Hummingbirds"
+30,Chimney Swift,"Nightjars, Swifts, Hummingbirds"
+31,Ruby-throated Hummingbird,"Nightjars, Swifts, Hummingbirds"
+32,King Rail,"Rails, Gallinules, Coots"
+33,Virginia Rail,"Rails, Gallinules, Coots"
+34,Sora,"Rails, Gallinules, Coots"
+35,Common Gallinule,"Rails, Gallinules, Coots"
+36,American Coot,"Rails, Gallinules, Coots"
+37,Killdeer,"Plovers, Sandpipers"
+38,American Woodcock,"Plovers, Sandpipers"
+39,Laughing Gull,Gulls
+40,Ring-billed Gull,Gulls
+41,Herring Gull,Gulls
+42,Great Black-backed Gull,Gulls
+43,Red-throated Loon,Loons
+44,Common Loon,Loons
+45,Double-crested Cormorant,Cormorants
+46,Great Blue Heron,Herons
+47,Green Heron,Herons
+48,Black-crowned Night-Heron,Herons
+49,Black Vulture,"Vultures, Hawks"
+50,Turkey Vulture,"Vultures, Hawks"
+51,Osprey,"Vultures, Hawks"
+52,Northern Harrier,"Vultures, Hawks"
+53,Sharp-shinned Hawk,"Vultures, Hawks"
+54,Cooper’s Hawk,"Vultures, Hawks"
+55,Northern Goshawk,"Vultures, Hawks"
+56,Bald Eagle,"Vultures, Hawks"
+57,Red-shouldered Hawk,"Vultures, Hawks"
+58,Broad-winged Hawk,"Vultures, Hawks"
+59,Red-tailed Hawk,"Vultures, Hawks"
+60,Eastern Screech-owl,"Owls, KingFishers"
+61,Great Horned owl,"Owls, KingFishers"
+62,Long-eared owl,"Owls, KingFishers"
+63,Northern Saw-whet owl,"Owls, KingFishers"
+64,Belted Kingfisher,"Owls, KingFishers"
+65,Red-headed Woodpecker,Woodpeckers
+66,Red-bellied Woodpecker,Woodpeckers
+67,Yellow-bellied Sapsucker,Woodpeckers
+68,Downy Woodpecker,Woodpeckers
+69,Hairy Woodpecker,Woodpeckers
+70,Northern Flicker,Woodpeckers
+71,American Kestrel,Falcons
+72,Merlin,Falcons
+73,Peregrine Falcon,Falcons
+74,Great Crested Flycatcher,Flycatchers
+75,Easter Kingbird,Flycatchers
+76,Olive-sided Flycatcher,Flycatchers
+77,Eastern Wood-Pewee,Flycatchers
+78,Yellow-bellied Flycatcher,Flycatchers
+79,Acadian Flycatcher,Flycatchers
+80,Alder Flycatcher,Flycatchers
+81,Willow Flycatcher,Flycatchers
+82,Least Flycatcher,Flycatchers
+83,Easter Phoebe,Flycatchers
+84,White-eyed Vireo,Vireos
+85,Yellow-throated Vireo,Vireos
+86,Blue-headed Vireo,Vireos
+87,Philadelphia Vireo,Vireos
+88,Warbling Vireo,Vireos
+89,Red-eyed Vireo,Vireos
+90,Blue Jay,"Jays, Crows"
+91,American Crow,"Jays, Crows"
+92,Fish Crow,"Jays, Crows"
+93,Common Raven,"Jays, Crows"
+94,Bank Swallow,Swallows
+95,Tree Swallow,Swallows
+96,Northern Rough-winged Swallow,Swallows
+97,Purple Martin,Swallows
+98,Barn Swallow,Swallows
+99,Cliff Swallow,Swallows
+100,Carolina Chickadee,"Chickadees, Nuthatches, Creepers"
+101,Black-capped Chickadee,"Chickadees, Nuthatches, Creepers"
+102,Tufted Titmouse,"Chickadees, Nuthatches, Creepers"
+103,Red-breasted Nuthatch,"Chickadees, Nuthatches, Creepers"
+104,White-breasted Nuthatch,"Chickadees, Nuthatches, Creepers"
+105,Brown Creeper,"Chickadees, Nuthatches, Creepers"
+106,House Wren,"Wrens, Gnatcatchers, Kinglets"
+107,Winter Wren,"Wrens, Gnatcatchers, Kinglets"
+108,Marsh Wren,"Wrens, Gnatcatchers, Kinglets"
+109,Carolina Wren,"Wrens, Gnatcatchers, Kinglets"
+110,Blue-gray Gnatcatcher,"Wrens, Gnatcatchers, Kinglets"
+111,Golden-crowned Kinglet,"Wrens, Gnatcatchers, Kinglets"
+112,Ruby-crowned Kinglet,"Wrens, Gnatcatchers, Kinglets"
+113,Eastern Bluebird,"Thrushes, Thrashers"
+114,Veery,"Thrushes, Thrashers"
+115,Gray-cheeked Thrush,"Thrushes, Thrashers"
+116,Swainson’s Thrush,"Thrushes, Thrashers"
+117,Hermit Thrush,"Thrushes, Thrashers"
+118,Wood Thrush,"Thrushes, Thrashers"
+119,American Robin,"Thrushes, Thrashers"
+120,Gray Catbird,"Thrushes, Thrashers"
+121,Brown Thrasher,"Thrushes, Thrashers"
+122,Northern Mockingbird,"Thrushes, Thrashers"
+123,European Starling,"Starlings, Waxwings, House Sparrow"
+124,Cedar Waxwing,"Starlings, Waxwings, House Sparrow"
+125,House Sparrow,"Starlings, Waxwings, House Sparrow"
+126,Evening Grosbeak,Finches
+127,House Finch,Finches
+128,Purple Finch,Finches
+129,Common Redpoll,Finches
+130,Pine Siskin,Finches
+131,American Goldfinch,Finches
+132,Chipping Sparrow,Sparrows
+133,Field Sparrow,Sparrows
+134,Fox Sparrow,Sparrows
+135,American Tree Sparrow,Sparrows
+136,Dark-eyed Junco,Sparrows
+137,White-crowned Sparrow,Sparrows
+138,White-throated Sparrow,Sparrows
+139,Song Sparrow,Sparrows
+140,Lincoln’s Sparrow,Sparrows
+141,Swamp Sparrow,Sparrows
+142,Eastern Towhee,Sparrows
+143,Yellow-breasted Chat,"Chats, Orioles, Blackbirds"
+144,Bobolink,"Chats, Orioles, Blackbirds"
+145,Orchard Oriole,"Chats, Orioles, Blackbirds"
+146,Baltimore Oriole,"Chats, Orioles, Blackbirds"
+147,Red-winged Blackbird,"Chats, Orioles, Blackbirds"
+148,Brown-headed Cowbird,"Chats, Orioles, Blackbirds"
+149,Rusty Blackbird,"Chats, Orioles, Blackbirds"
+150,Common Grackie,"Chats, Orioles, Blackbirds"
+151,Ovenbird,Warblers
+152,Worm-eating Warbler,Warblers
+153,Louisiana Waterthrush,Warblers
+154,Northern Waterthrush,Warblers
+155,Golden-winged Warbler,Warblers
+156,Blue-winged Warbler,Warblers
+157,Black-and-white Warbler,Warblers
+158,Prothonotary Warbler,Warblers
+159,Tennessee Warbler,Warblers
+160,Orange-crowned Warbler,Warblers
+161,Nashville Warbler,Warblers
+162,Connecticut Warbler,Warblers
+163,Mourning Warbler,Warblers
+164,Kentucky Warbler,Warblers
+165,Common Yellowthroat,Warblers
+166,Hooded Warbler,Warblers
+167,American Redstart,Warblers
+168,Cape May Warbler,Warblers
+169,Cerulean Warbler,Warblers
+170,Northern Parula,Warblers
+171,Magnolia Warbler,Warblers
+172,Bay-breasted Warbler,Warblers
+173,Blackburnian Warbler,Warblers
+174,Yellow Warbler,Warblers
+175,Black-throated Blue Warbler,Warblers
+176,Palm Warbler,Warblers
+177,Pine Warbler,Warblers
+178,Yellow-rumped Warbler,Warblers
+179,Yellow-throated Warbler,Warblers
+180,Prairie Warbler,Warblers
+181,Black-throated Green Warbler,Warblers
+182,Canada Warbler,Warblers
+183,Wilson’s Warbler,Warblers
+184,Summer Tanager,"Tanagers, Grosbeaks, Buntings"
+185,Scarlet Tanager,"Tanagers, Grosbeaks, Buntings"
+186,Northern Cardinal,"Tanagers, Grosbeaks, Buntings"
+187,Rose-breasted Grosbeak,"Tanagers, Grosbeaks, Buntings"
+188,Blue Grosbeak,"Tanagers, Grosbeaks, Buntings"
+189,Indigo Bunting,"Tanagers, Grosbeaks, Buntings"
+190,Dickcissel,"Tanagers, Grosbeaks, Buntings"
